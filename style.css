@@ -1,0 +1,97 @@
+h1 {
+    text-align: center;
+  }
+  .center-list {
+    text-align: center;
+  }
+  h4 {
+    text-align: center;
+  }
+  
+  .center-list {
+    text-align: center;
+  }
+  
+  .centralizar {
+    display: flex;
+    flex-direction: column; /* coloca os elementos um em cima do outro */
+    justify-content: center; /* centraliza verticalmente */
+    align-items: center;     /* centraliza horizontalmente */
+    height: calc(80vh - 100px);
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  
+  
+
+  
+
+  
+  body{background-color: rgba(92, 85, 160, 0.548);}
+
+  h1 {color: rgb(105, 36, 170); }
+
+
+    p {
+        font-size: 45px;}
+
+        ul li {
+            margin-bottom:35px}
+
+            h4 { text-align: center;}
+        
+            table {
+                border-collapse: collapse; /* junta as bordas */
+                width: 80%;                /* define largura */
+                margin: 20px auto;         /* centraliza na página */
+                background-color: #41363617;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.315); /* sombra suave */
+              }
+              
+              td {
+                border: 1px solid #30256e8c;
+                padding: 10px;
+                text-align: 
+                font-family: Arial, sans-serif;
+                font-size: 16px;
+              }
+              
+              tr:hover {
+                background-color: #7b7ac471; /* efeito hover nas linhas */
+              }
+
+              a {
+                color: blue;             /* cor normal do link */
+                text-decoration: none;   /* remove o sublinhado (opcional) */
+                font-weight: bold;
+              }
+              
+              a:hover {
+                color: red;              /* cor ao passar o mouse */
+              }
+    .link {
+         text-align: center;
+
+    }
+
+      .centralizado {
+        display: flex;
+        flex-direction: column;     /* Organiza em coluna (um embaixo do outro) */
+        align-items: center;        /* Centraliza horizontalmente */
+        justify-content: center;    /* (opcional) centraliza verticalmente se tiver altura */
+        text-align: center;
+        margin-top: 20px;           /* Espaço acima, se quiser ajustar */
+      }
+      
+      img {
+        border-radius: 25px; 
+      }
+    
+       img {
+        margin-top: 2px; 
+      }
+
+
+      
+      
